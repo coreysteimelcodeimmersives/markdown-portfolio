@@ -1,19 +1,34 @@
-# Markdown Portfolio
+<!-- Title -->
+# Corey Steimel
 
-In this assignment, you'll create a simple web page built with Markdown that displays information about yourself.
+<!-- Picture -->
+![alt text][logo]
 
-If you ever have any questions about Markdown syntax, feel free to reference the documentation here: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[logo]: https://avatars.githubusercontent.com/u/98352247?v=4 "Corey"
+###### Picture: Corey
 
-### Instructions
+<!-- Link -->
+[I'm an inline-style link](https://www.google.com)
 
-1. Start by forking this repository
-1. In your "fork" of the repository, edit the `README.md` and replace all of the previous content with your own Markdown which should contain:
-    * A title (your name)
-    * At least one picture
-    * At least one link (this could be to your GitHub page, your LinkedIn, or whatever you want)
-    * At least one bullet point list
-    * At least one numbered list
-1. Once you've added all of the previous elements, read through this markdown cheatsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and add one additional element not previously listed
-1. Once you're done with this, adjust the settings of your repoistory to enable GitHub Pages. This should provide you a URL at which your project is hosted.
-2. Update the "About" section of your repository so that your project's "website" is the GitHub Pages URL
-3. Finally, turn in a link to your repository on Populi
+<!-- Unordered List -->
+##### Unordered List:
+* Carrot
+* Beet
+* Celery
+
+<!-- Ordered List -->
+##### Ordered List:
+1. Automobile
+2. Aeroplane
+3. Subway
+
+<!-- Table -->
+##### Table:
+| Metabolic System | Distance | Time | Pace per 100 yards |
+|------------------|:--------:|-----:|-------------------:|
+| Neuromuscular    | 25 yards | 0:13 | 0:52 |
+|Maximal Aerobic Power | 300 yards | 4:07 | 1:22 |
+| Threshold | 700 yards | 10:30.1 | 1:30 |
+| Anaerobic Capacity | 100 yards | 1:14 | 1:14 |
+
+~~STrike~~

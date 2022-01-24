@@ -9,16 +9,19 @@
 
 <!-- Link -->
 ## Link:
+
 [Corey's GitHub](https://github.com/coreysteimelcodeimmersives)
 
 <!-- Unordered List -->
 ## Unordered List:
+
 * Carrot
 * Beet
 * Celery
 
 <!-- Ordered List -->
 ## Ordered List:
+
 1. Automobile
 2. Aeroplane
 3. Subway
@@ -32,12 +35,3 @@
 |Maximal Aerobic Power | 300 yards | 4:07 | 1:22 |
 | Threshold | 700 yards | 10:30.1 | 1:30 |
 | Anaerobic Capacity | 100 yards | 1:14 | 1:14 |
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-

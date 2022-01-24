@@ -25,9 +25,18 @@
 
 <!-- Table -->
 ## Table:
+
 | Metabolic System | Distance | Time | Pace per 100 yards |
 |------------------|:--------:|-----:|-------------------:|
 | Neuromuscular    | 25 yards | 0:13 | 0:52 |
 |Maximal Aerobic Power | 300 yards | 4:07 | 1:22 |
 | Threshold | 700 yards | 10:30.1 | 1:30 |
 | Anaerobic Capacity | 100 yards | 1:14 | 1:14 |
+
+Colons can be used to align columns.
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
